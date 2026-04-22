@@ -10,6 +10,8 @@ private:
 	// 行列 ・・・ 座標などの情報
 	Math::Matrix matrix;
 
+
+	int test = 0;
 public:
 
 	// 初期設定
